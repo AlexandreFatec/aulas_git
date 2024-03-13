@@ -7,4 +7,5 @@
 <li>Add</li>
 <li>Commit</li>
 <li>Push</li>
+<li>Resolvendo conflitos no GIT</li>
 </ul>
