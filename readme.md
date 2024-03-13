@@ -7,4 +7,5 @@
 <li>Add</li>
 <li>Commit</li>
 <li>Push</li>
+<li>Como resolver conflitos e como saber se deu certo?</li>
 </ul>
